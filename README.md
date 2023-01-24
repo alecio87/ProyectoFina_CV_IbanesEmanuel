@@ -16,3 +16,12 @@ Es código abierto, el mismo se encuentra en un ```repositorio público``` en Gi
 - [HTML](#technologies)
 - [CSS](##technologies)
 - [JS](##technologies)
+
+## Vista Previa
+***Preview #1***
+
+![](assests//img/preview-tpf-frontend.gif)
+
+***Preview #2***
+
+![](assests//img/preview_2-tpf-frontend.gif)
